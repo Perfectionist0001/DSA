@@ -11,4 +11,12 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
