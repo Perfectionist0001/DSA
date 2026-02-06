@@ -17,6 +17,7 @@ LeetCode &amp; Geeks for Geeks
 | [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,6 +40,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -47,4 +49,5 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
