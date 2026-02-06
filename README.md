@@ -16,6 +16,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 ## Backtracking
@@ -23,10 +24,12 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
@@ -35,6 +38,7 @@ LeetCode &amp; Geeks for Geeks
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -48,6 +52,7 @@ LeetCode &amp; Geeks for Geeks
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
