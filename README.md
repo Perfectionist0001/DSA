@@ -15,8 +15,10 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
