@@ -10,6 +10,7 @@ LeetCode &amp; Geeks for Geeks
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
 ## Array
 |  |
@@ -55,4 +56,8 @@ LeetCode &amp; Geeks for Geeks
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
