@@ -61,4 +61,9 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
