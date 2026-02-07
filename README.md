@@ -7,6 +7,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@ LeetCode &amp; Geeks for Geeks
 | [0206-reverse-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
