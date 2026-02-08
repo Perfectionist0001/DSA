@@ -18,6 +18,7 @@ LeetCode &amp; Geeks for Geeks
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
@@ -78,4 +79,8 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
