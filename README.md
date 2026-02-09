@@ -36,6 +36,7 @@ LeetCode &amp; Geeks for Geeks
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Perfectionist0001/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ LeetCode &amp; Geeks for Geeks
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Perfectionist0001/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
