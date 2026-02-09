@@ -24,6 +24,7 @@ LeetCode &amp; Geeks for Geeks
 | [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
+| [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
@@ -82,6 +83,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,8 +92,10 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
