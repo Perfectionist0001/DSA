@@ -12,6 +12,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Perfectionist0001/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Perfectionist0001/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0234-palindrome-linked-list) |
@@ -79,6 +80,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Perfectionist0001/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Perfectionist0001/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0234-palindrome-linked-list) |
@@ -90,6 +92,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Perfectionist0001/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -109,6 +112,7 @@ LeetCode &amp; Geeks for Geeks
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Perfectionist0001/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/Perfectionist0001/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
