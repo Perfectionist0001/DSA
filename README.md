@@ -61,6 +61,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -121,6 +122,7 @@ LeetCode &amp; Geeks for Geeks
 | [0084-largest-rectangle-in-histogram](https://github.com/Perfectionist0001/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Perfectionist0001/DSA/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
@@ -167,4 +169,12 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
