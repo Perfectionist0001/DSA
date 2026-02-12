@@ -83,6 +83,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Perfectionist0001/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Perfectionist0001/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -177,4 +178,16 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
