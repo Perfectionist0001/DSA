@@ -6,6 +6,7 @@ LeetCode &amp; Geeks for Geeks
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Perfectionist0001/DSA/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
