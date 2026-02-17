@@ -67,11 +67,13 @@ LeetCode &amp; Geeks for Geeks
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/Perfectionist0001/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/Perfectionist0001/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -184,12 +186,14 @@ LeetCode &amp; Geeks for Geeks
 | [0102-binary-tree-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Perfectionist0001/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/Perfectionist0001/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Perfectionist0001/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/Perfectionist0001/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Divide and Conquer
 |  |
 | ------- |
