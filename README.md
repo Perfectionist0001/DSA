@@ -68,6 +68,7 @@ LeetCode &amp; Geeks for Geeks
 | [0100-same-tree](https://github.com/Perfectionist0001/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Perfectionist0001/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Perfectionist0001/DSA/tree/master/0404-sum-of-left-leaves) |
@@ -79,6 +80,7 @@ LeetCode &amp; Geeks for Geeks
 | [0100-same-tree](https://github.com/Perfectionist0001/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Perfectionist0001/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Perfectionist0001/DSA/tree/master/0404-sum-of-left-leaves) |
@@ -199,6 +201,7 @@ LeetCode &amp; Geeks for Geeks
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Perfectionist0001/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Perfectionist0001/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Perfectionist0001/DSA/tree/master/0404-sum-of-left-leaves) |
@@ -212,6 +215,7 @@ LeetCode &amp; Geeks for Geeks
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Perfectionist0001/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Perfectionist0001/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Perfectionist0001/DSA/tree/master/0404-sum-of-left-leaves) |
