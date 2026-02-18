@@ -21,6 +21,7 @@ LeetCode &amp; Geeks for Geeks
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Perfectionist0001/DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
@@ -115,6 +116,7 @@ LeetCode &amp; Geeks for Geeks
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Perfectionist0001/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Perfectionist0001/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
@@ -243,4 +245,8 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0190-reverse-bits](https://github.com/Perfectionist0001/DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Perfectionist0001/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Perfectionist0001/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
