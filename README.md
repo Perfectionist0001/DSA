@@ -40,6 +40,7 @@ LeetCode &amp; Geeks for Geeks
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1051-height-checker](https://github.com/Perfectionist0001/DSA/tree/master/1051-height-checker) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Perfectionist0001/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Perfectionist0001/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfectionist0001/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Perfectionist0001/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -100,6 +101,7 @@ LeetCode &amp; Geeks for Geeks
 | [0733-flood-fill](https://github.com/Perfectionist0001/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Perfectionist0001/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Perfectionist0001/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -115,6 +117,7 @@ LeetCode &amp; Geeks for Geeks
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Perfectionist0001/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Perfectionist0001/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Linked List
 |  |
 | ------- |
