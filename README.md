@@ -44,6 +44,7 @@ LeetCode &amp; Geeks for Geeks
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Perfectionist0001/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfectionist0001/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Perfectionist0001/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1765-map-of-highest-peak](https://github.com/Perfectionist0001/DSA/tree/master/1765-map-of-highest-peak) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Perfectionist0001/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
@@ -102,6 +103,7 @@ LeetCode &amp; Geeks for Geeks
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Perfectionist0001/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/Perfectionist0001/DSA/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Perfectionist0001/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -118,6 +120,7 @@ LeetCode &amp; Geeks for Geeks
 | [0733-flood-fill](https://github.com/Perfectionist0001/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Perfectionist0001/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/Perfectionist0001/DSA/tree/master/1765-map-of-highest-peak) |
 ## Linked List
 |  |
 | ------- |
