@@ -85,6 +85,7 @@ LeetCode &amp; Geeks for Geeks
 | [0547-number-of-provinces](https://github.com/Perfectionist0001/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Perfectionist0001/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Perfectionist0001/DSA/tree/master/0743-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/Perfectionist0001/DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Perfectionist0001/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -102,6 +103,7 @@ LeetCode &amp; Geeks for Geeks
 | [0547-number-of-provinces](https://github.com/Perfectionist0001/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Perfectionist0001/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Perfectionist0001/DSA/tree/master/0743-network-delay-time) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Perfectionist0001/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -271,6 +273,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/Perfectionist0001/DSA/tree/master/0743-network-delay-time) |
 ## Merge Sort
 |  |
 | ------- |
@@ -303,9 +306,14 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Perfectionist0001/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Perfectionist0001/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Perfectionist0001/DSA/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Perfectionist0001/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Perfectionist0001/DSA/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Perfectionist0001/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
