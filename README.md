@@ -29,6 +29,7 @@ LeetCode &amp; Geeks for Geeks
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Perfectionist0001/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
@@ -70,6 +71,7 @@ LeetCode &amp; Geeks for Geeks
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Perfectionist0001/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
@@ -129,6 +131,7 @@ LeetCode &amp; Geeks for Geeks
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
