@@ -37,6 +37,7 @@ LeetCode &amp; Geeks for Geeks
 | [0733-flood-fill](https://github.com/Perfectionist0001/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Perfectionist0001/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Perfectionist0001/DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -68,6 +69,7 @@ LeetCode &amp; Geeks for Geeks
 | [0070-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Perfectionist0001/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
