@@ -7,6 +7,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Perfectionist0001/DSA/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -64,6 +65,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -320,4 +322,8 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0743-network-delay-time](https://github.com/Perfectionist0001/DSA/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Perfectionist0001/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
