@@ -34,6 +34,7 @@ LeetCode &amp; Geeks for Geeks
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Perfectionist0001/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Perfectionist0001/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Perfectionist0001/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Perfectionist0001/DSA/tree/master/0213-house-robber-ii) |
@@ -76,6 +77,7 @@ LeetCode &amp; Geeks for Geeks
 | [0064-minimum-path-sum](https://github.com/Perfectionist0001/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Perfectionist0001/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Perfectionist0001/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Perfectionist0001/DSA/tree/master/0213-house-robber-ii) |
