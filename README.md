@@ -7,6 +7,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Perfectionist0001/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Perfectionist0001/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Perfectionist0001/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
@@ -28,6 +29,7 @@ LeetCode &amp; Geeks for Geeks
 | [0040-combination-sum-ii](https://github.com/Perfectionist0001/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Perfectionist0001/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Perfectionist0001/DSA/tree/master/0064-minimum-path-sum) |
@@ -136,6 +138,7 @@ LeetCode &amp; Geeks for Geeks
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Perfectionist0001/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Perfectionist0001/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
