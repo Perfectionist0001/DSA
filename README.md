@@ -33,6 +33,7 @@ LeetCode &amp; Geeks for Geeks
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Perfectionist0001/DSA/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Perfectionist0001/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Perfectionist0001/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
@@ -169,6 +170,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0011-container-with-most-water](https://github.com/Perfectionist0001/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Perfectionist0001/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Perfectionist0001/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Perfectionist0001/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -247,6 +249,7 @@ LeetCode &amp; Geeks for Geeks
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Perfectionist0001/DSA/tree/master/0075-sort-colors) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Perfectionist0001/DSA/tree/master/1051-height-checker) |
