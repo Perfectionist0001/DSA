@@ -34,6 +34,7 @@ LeetCode &amp; Geeks for Geeks
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Perfectionist0001/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Perfectionist0001/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Perfectionist0001/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -144,6 +145,7 @@ LeetCode &amp; Geeks for Geeks
 | [0048-rotate-image](https://github.com/Perfectionist0001/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Perfectionist0001/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
@@ -183,6 +185,7 @@ LeetCode &amp; Geeks for Geeks
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Perfectionist0001/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
