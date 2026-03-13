@@ -74,6 +74,7 @@ LeetCode &amp; Geeks for Geeks
 | [0020-valid-parentheses](https://github.com/Perfectionist0001/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/Perfectionist0001/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +185,7 @@ LeetCode &amp; Geeks for Geeks
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Perfectionist0001/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Perfectionist0001/DSA/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Perfectionist0001/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0876-middle-of-the-linked-list) |
