@@ -75,6 +75,7 @@ LeetCode &amp; Geeks for Geeks
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Perfectionist0001/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Perfectionist0001/DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ LeetCode &amp; Geeks for Geeks
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Perfectionist0001/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Perfectionist0001/DSA/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/Perfectionist0001/DSA/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Perfectionist0001/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -187,6 +189,7 @@ LeetCode &amp; Geeks for Geeks
 | [0143-reorder-list](https://github.com/Perfectionist0001/DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Perfectionist0001/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Perfectionist0001/DSA/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
