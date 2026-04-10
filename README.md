@@ -46,6 +46,7 @@ LeetCode &amp; Geeks for Geeks
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Perfectionist0001/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Perfectionist0001/DSA/tree/master/0085-maximal-rectangle) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Perfectionist0001/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Perfectionist0001/DSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Perfectionist0001/DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Perfectionist0001/DSA/tree/master/0198-house-robber) |
@@ -297,6 +298,7 @@ LeetCode &amp; Geeks for Geeks
 | [0100-same-tree](https://github.com/Perfectionist0001/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Perfectionist0001/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Perfectionist0001/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -318,6 +320,7 @@ LeetCode &amp; Geeks for Geeks
 | [0100-same-tree](https://github.com/Perfectionist0001/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Perfectionist0001/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Perfectionist0001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Perfectionist0001/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -336,6 +339,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Perfectionist0001/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Perfectionist0001/DSA/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -364,6 +368,7 @@ LeetCode &amp; Geeks for Geeks
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Perfectionist0001/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Perfectionist0001/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0450-delete-node-in-a-bst) |
