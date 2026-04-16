@@ -403,4 +403,8 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Perfectionist0001/DSA/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Perfectionist0001/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
