@@ -13,6 +13,7 @@ LeetCode &amp; Geeks for Geeks
 | [0062-unique-paths](https://github.com/Perfectionist0001/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Perfectionist0001/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Perfectionist0001/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Perfectionist0001/DSA/tree/master/0509-fibonacci-number) |
@@ -54,6 +55,7 @@ LeetCode &amp; Geeks for Geeks
 | [0198-house-robber](https://github.com/Perfectionist0001/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Perfectionist0001/DSA/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
@@ -221,6 +223,7 @@ LeetCode &amp; Geeks for Geeks
 | [0073-set-matrix-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Perfectionist0001/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -229,6 +232,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Perfectionist0001/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
@@ -293,6 +297,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Perfectionist0001/DSA/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Perfectionist0001/DSA/tree/master/1051-height-checker) |
@@ -365,6 +370,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0190-reverse-bits](https://github.com/Perfectionist0001/DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Perfectionist0001/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
