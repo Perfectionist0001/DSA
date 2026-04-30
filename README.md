@@ -54,6 +54,7 @@ LeetCode &amp; Geeks for Geeks
 | [0120-triangle](https://github.com/Perfectionist0001/DSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Perfectionist0001/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Perfectionist0001/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Perfectionist0001/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Perfectionist0001/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Perfectionist0001/DSA/tree/master/0200-number-of-islands) |
@@ -229,6 +230,7 @@ LeetCode &amp; Geeks for Geeks
 | [0073-set-matrix-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Perfectionist0001/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -304,6 +306,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0075-sort-colors](https://github.com/Perfectionist0001/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -358,6 +361,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Perfectionist0001/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Perfectionist0001/DSA/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -371,6 +375,7 @@ LeetCode &amp; Geeks for Geeks
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Perfectionist0001/DSA/tree/master/1051-height-checker) |
 ## Bit Manipulation
 |  |
