@@ -41,6 +41,7 @@ LeetCode &amp; Geeks for Geeks
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Perfectionist0001/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Perfectionist0001/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Perfectionist0001/DSA/tree/master/0064-minimum-path-sum) |
@@ -103,6 +104,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Perfectionist0001/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Perfectionist0001/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Perfectionist0001/DSA/tree/master/0063-unique-paths-ii) |
@@ -360,6 +362,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Perfectionist0001/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Perfectionist0001/DSA/tree/master/0190-reverse-bits) |
