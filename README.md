@@ -13,6 +13,7 @@ LeetCode &amp; Geeks for Geeks
 | [0062-unique-paths](https://github.com/Perfectionist0001/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Perfectionist0001/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Perfectionist0001/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Perfectionist0001/DSA/tree/master/0412-fizz-buzz) |
@@ -292,6 +293,7 @@ LeetCode &amp; Geeks for Geeks
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Perfectionist0001/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Perfectionist0001/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Perfectionist0001/DSA/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -439,4 +441,8 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Perfectionist0001/DSA/tree/master/0175-combine-two-tables) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Perfectionist0001/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
