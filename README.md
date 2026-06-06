@@ -66,6 +66,7 @@ LeetCode &amp; Geeks for Geeks
 | [0213-house-robber-ii](https://github.com/Perfectionist0001/DSA/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Perfectionist0001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Perfectionist0001/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
@@ -229,6 +230,7 @@ LeetCode &amp; Geeks for Geeks
 | [0189-rotate-array](https://github.com/Perfectionist0001/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Perfectionist0001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Perfectionist0001/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Perfectionist0001/DSA/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -254,6 +256,7 @@ LeetCode &amp; Geeks for Geeks
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Perfectionist0001/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Perfectionist0001/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Perfectionist0001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
@@ -401,6 +404,7 @@ LeetCode &amp; Geeks for Geeks
 | [0190-reverse-bits](https://github.com/Perfectionist0001/DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Perfectionist0001/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Perfectionist0001/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
