@@ -75,6 +75,7 @@ LeetCode &amp; Geeks for Geeks
 | [0739-daily-temperatures](https://github.com/Perfectionist0001/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0977-squares-of-a-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -236,6 +237,7 @@ LeetCode &amp; Geeks for Geeks
 | [0392-is-subsequence](https://github.com/Perfectionist0001/DSA/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Perfectionist0001/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Perfectionist0001/DSA/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Perfectionist0001/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -329,6 +331,7 @@ LeetCode &amp; Geeks for Geeks
 | [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0977-squares-of-a-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Perfectionist0001/DSA/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
