@@ -67,6 +67,7 @@ LeetCode &amp; Geeks for Geeks
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Perfectionist0001/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/Perfectionist0001/DSA/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Perfectionist0001/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
@@ -330,6 +331,7 @@ LeetCode &amp; Geeks for Geeks
 | [0088-merge-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Perfectionist0001/DSA/tree/master/0414-third-maximum-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
