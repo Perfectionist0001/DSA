@@ -8,6 +8,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0007-reverse-integer](https://github.com/Perfectionist0001/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Perfectionist0001/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Perfectionist0001/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Perfectionist0001/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Perfectionist0001/DSA/tree/master/0062-unique-paths) |
@@ -103,6 +104,7 @@ LeetCode &amp; Geeks for Geeks
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Perfectionist0001/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Perfectionist0001/DSA/tree/master/0125-valid-palindrome) |
@@ -246,6 +248,7 @@ LeetCode &amp; Geeks for Geeks
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Perfectionist0001/DSA/tree/master/0142-linked-list-cycle-ii) |
