@@ -90,6 +90,7 @@ LeetCode &amp; Geeks for Geeks
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Perfectionist0001/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/Perfectionist0001/DSA/tree/master/1765-map-of-highest-peak) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Perfectionist0001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Perfectionist0001/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Perfectionist0001/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Perfectionist0001/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -344,6 +345,7 @@ LeetCode &amp; Geeks for Geeks
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Perfectionist0001/DSA/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Perfectionist0001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
 ## Tree
 |  |
@@ -425,6 +427,7 @@ LeetCode &amp; Geeks for Geeks
 | [0011-container-with-most-water](https://github.com/Perfectionist0001/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Perfectionist0001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search Tree
 |  |
 | ------- |
