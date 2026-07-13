@@ -36,6 +36,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Perfectionist0001/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Perfectionist0001/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Perfectionist0001/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Perfectionist0001/DSA/tree/master/0027-remove-element) |
@@ -112,6 +113,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Perfectionist0001/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Perfectionist0001/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Perfectionist0001/DSA/tree/master/0125-valid-palindrome) |
@@ -496,4 +498,8 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Perfectionist0001/DSA/tree/master/0303-range-sum-query-immutable) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Perfectionist0001/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
