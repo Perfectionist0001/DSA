@@ -3,8 +3,9 @@ public:
     bool uniqueOccurrences(vector<int>& arr) {
         sort(arr.begin(), arr.end());
         vector<int> freq;
+        int n = arr.size();
         int count = 1;
-        for (int i = 1; i < arr.size(); i++) {
+        for (int i = 1; i < n; i++) {
             if (arr[i] == arr[i - 1]) {
                 count++;
             } else {
