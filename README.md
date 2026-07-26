@@ -20,6 +20,7 @@ LeetCode &amp; Geeks for Geeks
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Perfectionist0001/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Perfectionist0001/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Perfectionist0001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -79,6 +80,7 @@ LeetCode &amp; Geeks for Geeks
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Perfectionist0001/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Perfectionist0001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Perfectionist0001/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Perfectionist0001/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Perfectionist0001/DSA/tree/master/0735-asteroid-collision) |
@@ -370,6 +372,7 @@ LeetCode &amp; Geeks for Geeks
 | [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Perfectionist0001/DSA/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Perfectionist0001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
