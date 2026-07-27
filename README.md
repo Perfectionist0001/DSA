@@ -96,6 +96,7 @@ LeetCode &amp; Geeks for Geeks
 | [1207-unique-number-of-occurrences](https://github.com/Perfectionist0001/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Perfectionist0001/DSA/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Perfectionist0001/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Perfectionist0001/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfectionist0001/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Perfectionist0001/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfectionist0001/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -377,6 +378,7 @@ LeetCode &amp; Geeks for Geeks
 | [0977-squares-of-a-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Perfectionist0001/DSA/tree/master/1051-height-checker) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Perfectionist0001/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfectionist0001/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Perfectionist0001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -439,6 +441,7 @@ LeetCode &amp; Geeks for Geeks
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Perfectionist0001/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/Perfectionist0001/DSA/tree/master/0743-network-delay-time) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Perfectionist0001/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
