@@ -113,6 +113,7 @@ LeetCode &amp; Geeks for Geeks
 | [2073-time-needed-to-buy-tickets](https://github.com/Perfectionist0001/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Perfectionist0001/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -293,6 +294,7 @@ LeetCode &amp; Geeks for Geeks
 | [1207-unique-number-of-occurrences](https://github.com/Perfectionist0001/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfectionist0001/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -392,6 +394,7 @@ LeetCode &amp; Geeks for Geeks
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Perfectionist0001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
