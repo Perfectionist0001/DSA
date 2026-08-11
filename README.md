@@ -545,4 +545,12 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Perfectionist0001/DSA/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Perfectionist0001/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Perfectionist0001/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
