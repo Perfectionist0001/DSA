@@ -91,6 +91,7 @@ LeetCode &amp; Geeks for Geeks
 | [0735-asteroid-collision](https://github.com/Perfectionist0001/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Perfectionist0001/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/Perfectionist0001/DSA/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Perfectionist0001/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Perfectionist0001/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Perfectionist0001/DSA/tree/master/0994-rotting-oranges) |
@@ -293,6 +294,7 @@ LeetCode &amp; Geeks for Geeks
 | [0383-ransom-note](https://github.com/Perfectionist0001/DSA/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Perfectionist0001/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/Perfectionist0001/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/Perfectionist0001/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfectionist0001/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -345,6 +347,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Perfectionist0001/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Perfectionist0001/DSA/tree/master/0904-fruit-into-baskets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Perfectionist0001/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
