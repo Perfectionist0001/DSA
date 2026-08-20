@@ -133,6 +133,7 @@ LeetCode &amp; Geeks for Geeks
 | [0014-longest-common-prefix](https://github.com/Perfectionist0001/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Perfectionist0001/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Perfectionist0001/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Perfectionist0001/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Perfectionist0001/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Perfectionist0001/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Perfectionist0001/DSA/tree/master/0131-palindrome-partitioning) |
@@ -289,6 +290,7 @@ LeetCode &amp; Geeks for Geeks
 | [0013-roman-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Perfectionist0001/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Perfectionist0001/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Perfectionist0001/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Perfectionist0001/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Perfectionist0001/DSA/tree/master/0169-majority-element) |
@@ -349,6 +351,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Perfectionist0001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Perfectionist0001/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Perfectionist0001/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Perfectionist0001/DSA/tree/master/0904-fruit-into-baskets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
