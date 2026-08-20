@@ -127,6 +127,7 @@ LeetCode &amp; Geeks for Geeks
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Perfectionist0001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Perfectionist0001/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Perfectionist0001/DSA/tree/master/0014-longest-common-prefix) |
@@ -283,6 +284,7 @@ LeetCode &amp; Geeks for Geeks
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Perfectionist0001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Perfectionist0001/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Perfectionist0001/DSA/tree/master/0049-group-anagrams) |
@@ -346,6 +348,7 @@ LeetCode &amp; Geeks for Geeks
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Perfectionist0001/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Perfectionist0001/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Perfectionist0001/DSA/tree/master/0904-fruit-into-baskets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
