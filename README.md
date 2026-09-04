@@ -566,4 +566,8 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Perfectionist0001/DSA/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Perfectionist0001/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
