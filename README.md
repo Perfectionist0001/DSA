@@ -20,6 +20,7 @@ LeetCode &amp; Geeks for Geeks
 | [0268-missing-number](https://github.com/Perfectionist0001/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Perfectionist0001/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Perfectionist0001/DSA/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Perfectionist0001/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Perfectionist0001/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfectionist0001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -82,6 +83,7 @@ LeetCode &amp; Geeks for Geeks
 | [0287-find-the-duplicate-number](https://github.com/Perfectionist0001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Perfectionist0001/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Perfectionist0001/DSA/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Perfectionist0001/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Perfectionist0001/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Perfectionist0001/DSA/tree/master/0496-next-greater-element-i) |
