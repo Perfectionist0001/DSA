@@ -24,6 +24,7 @@ LeetCode &amp; Geeks for Geeks
 | [0509-fibonacci-number](https://github.com/Perfectionist0001/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfectionist0001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Perfectionist0001/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
@@ -499,6 +500,7 @@ LeetCode &amp; Geeks for Geeks
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Perfectionist0001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Perfectionist0001/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search Tree
 |  |
 | ------- |
