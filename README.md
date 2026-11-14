@@ -120,6 +120,7 @@ LeetCode &amp; Geeks for Geeks
 | [2149-rearrange-array-elements-by-sign](https://github.com/Perfectionist0001/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Perfectionist0001/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -364,6 +365,7 @@ LeetCode &amp; Geeks for Geeks
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Perfectionist0001/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Perfectionist0001/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
@@ -375,6 +377,7 @@ LeetCode &amp; Geeks for Geeks
 | [1480-running-sum-of-1d-array](https://github.com/Perfectionist0001/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Perfectionist0001/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
 | ------- |
