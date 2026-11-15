@@ -24,6 +24,7 @@ LeetCode &amp; Geeks for Geeks
 | [0509-fibonacci-number](https://github.com/Perfectionist0001/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfectionist0001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Perfectionist0001/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Perfectionist0001/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@ LeetCode &amp; Geeks for Geeks
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Perfectionist0001/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfectionist0001/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Perfectionist0001/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Perfectionist0001/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfectionist0001/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Perfectionist0001/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Perfectionist0001/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -170,6 +172,7 @@ LeetCode &amp; Geeks for Geeks
 | [0509-fibonacci-number](https://github.com/Perfectionist0001/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Perfectionist0001/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Perfectionist0001/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Perfectionist0001/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Perfectionist0001/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
@@ -375,6 +378,7 @@ LeetCode &amp; Geeks for Geeks
 | [0724-find-pivot-index](https://github.com/Perfectionist0001/DSA/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Perfectionist0001/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Perfectionist0001/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Perfectionist0001/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Perfectionist0001/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3364-minimum-positive-sum-subarray) |
