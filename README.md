@@ -120,6 +120,7 @@ LeetCode &amp; Geeks for Geeks
 | [1929-concatenation-of-array](https://github.com/Perfectionist0001/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Perfectionist0001/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Perfectionist0001/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Perfectionist0001/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -426,6 +427,7 @@ LeetCode &amp; Geeks for Geeks
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfectionist0001/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Perfectionist0001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Perfectionist0001/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -514,6 +516,7 @@ LeetCode &amp; Geeks for Geeks
 | [0055-jump-game](https://github.com/Perfectionist0001/DSA/tree/master/0055-jump-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Perfectionist0001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Perfectionist0001/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Perfectionist0001/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search Tree
 |  |
