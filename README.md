@@ -124,6 +124,7 @@ LeetCode &amp; Geeks for Geeks
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Perfectionist0001/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Perfectionist0001/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Perfectionist0001/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
@@ -155,6 +156,7 @@ LeetCode &amp; Geeks for Geeks
 | [0412-fizz-buzz](https://github.com/Perfectionist0001/DSA/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/Perfectionist0001/DSA/tree/master/1768-merge-strings-alternately) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Perfectionist0001/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Perfectionist0001/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +205,7 @@ LeetCode &amp; Geeks for Geeks
 | [0938-range-sum-of-bst](https://github.com/Perfectionist0001/DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Perfectionist0001/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Perfectionist0001/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@ LeetCode &amp; Geeks for Geeks
 | [1207-unique-number-of-occurrences](https://github.com/Perfectionist0001/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Perfectionist0001/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Perfectionist0001/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -456,6 +460,7 @@ LeetCode &amp; Geeks for Geeks
 | [0872-leaf-similar-trees](https://github.com/Perfectionist0001/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Perfectionist0001/DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Perfectionist0001/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Perfectionist0001/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
