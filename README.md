@@ -155,6 +155,7 @@ LeetCode &amp; Geeks for Geeks
 | [0392-is-subsequence](https://github.com/Perfectionist0001/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Perfectionist0001/DSA/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/Perfectionist0001/DSA/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Perfectionist0001/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Perfectionist0001/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Perfectionist0001/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
