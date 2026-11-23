@@ -24,6 +24,7 @@ LeetCode &amp; Geeks for Geeks
 | [0509-fibonacci-number](https://github.com/Perfectionist0001/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Perfectionist0001/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Perfectionist0001/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Perfectionist0001/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Perfectionist0001/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
@@ -105,6 +106,7 @@ LeetCode &amp; Geeks for Geeks
 | [1091-shortest-path-in-binary-matrix](https://github.com/Perfectionist0001/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Perfectionist0001/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Perfectionist0001/DSA/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Perfectionist0001/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Perfectionist0001/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Perfectionist0001/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Perfectionist0001/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -385,6 +387,7 @@ LeetCode &amp; Geeks for Geeks
 | [0209-minimum-size-subarray-sum](https://github.com/Perfectionist0001/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Perfectionist0001/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Perfectionist0001/DSA/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Perfectionist0001/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Perfectionist0001/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Perfectionist0001/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Perfectionist0001/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -586,6 +589,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Perfectionist0001/DSA/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Perfectionist0001/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -611,4 +615,8 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Perfectionist0001/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Perfectionist0001/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
