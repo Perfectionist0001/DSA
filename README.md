@@ -26,6 +26,7 @@ LeetCode &amp; Geeks for Geeks
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Perfectionist0001/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Perfectionist0001/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Perfectionist0001/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Perfectionist0001/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
@@ -128,6 +129,7 @@ LeetCode &amp; Geeks for Geeks
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Perfectionist0001/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Perfectionist0001/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Perfectionist0001/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -380,6 +382,7 @@ LeetCode &amp; Geeks for Geeks
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Perfectionist0001/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Perfectionist0001/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Perfectionist0001/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
@@ -585,6 +588,7 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Perfectionist0001/DSA/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Perfectionist0001/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -619,4 +623,8 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Perfectionist0001/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Perfectionist0001/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
