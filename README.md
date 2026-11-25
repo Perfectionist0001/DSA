@@ -132,6 +132,7 @@ LeetCode &amp; Geeks for Geeks
 | [3411-maximum-subarray-with-equal-products](https://github.com/Perfectionist0001/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Perfectionist0001/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -326,6 +327,7 @@ LeetCode &amp; Geeks for Geeks
 | [2784-check-if-array-is-good](https://github.com/Perfectionist0001/DSA/tree/master/2784-check-if-array-is-good) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Perfectionist0001/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -340,6 +342,7 @@ LeetCode &amp; Geeks for Geeks
 | [0287-find-the-duplicate-number](https://github.com/Perfectionist0001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Perfectionist0001/DSA/tree/master/0456-132-pattern) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Perfectionist0001/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3934-smallest-unique-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -627,4 +630,16 @@ LeetCode &amp; Geeks for Geeks
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Perfectionist0001/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
