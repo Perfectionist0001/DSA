@@ -26,6 +26,7 @@ LeetCode &amp; Geeks for Geeks
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Perfectionist0001/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Perfectionist0001/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Perfectionist0001/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/Perfectionist0001/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Perfectionist0001/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Perfectionist0001/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
@@ -412,6 +413,7 @@ LeetCode &amp; Geeks for Geeks
 | [1929-concatenation-of-array](https://github.com/Perfectionist0001/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Perfectionist0001/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Perfectionist0001/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/Perfectionist0001/DSA/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
