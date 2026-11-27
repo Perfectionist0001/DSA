@@ -134,6 +134,7 @@ LeetCode &amp; Geeks for Geeks
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Perfectionist0001/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3731-find-missing-elements](https://github.com/Perfectionist0001/DSA/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/Perfectionist0001/DSA/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Perfectionist0001/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +188,7 @@ LeetCode &amp; Geeks for Geeks
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Perfectionist0001/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Perfectionist0001/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Perfectionist0001/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Perfectionist0001/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -538,6 +540,7 @@ LeetCode &amp; Geeks for Geeks
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Perfectionist0001/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Perfectionist0001/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Perfectionist0001/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Perfectionist0001/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search Tree
 |  |
 | ------- |
