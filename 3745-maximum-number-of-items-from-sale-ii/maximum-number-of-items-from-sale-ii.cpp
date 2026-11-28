@@ -1,0 +1,29 @@
+class Solution {
+public:
+    int maximumSaleItems(vector<vector<int>>& items, int budget) {
+        int n = items.size(), mn = INT_MAX;
+        vector<int> cnt(n + 1, 0);
+        for (auto &x : items) {
+            cnt[x[0]]++;
+            mn = min(mn, x[1]);
+        }
+        for (int i = 1; i <= n; i++)
+            for (int j = 2 * i; j <= n; j += i)
+                cnt[i] += cnt[j];
+        sort(items.begin(), items.end(), [](auto &a, auto &b) {
+            return a[1] < b[1];
+        });
+        int ans = 0;
+        for (auto &x : items) {
+            int f = x[0], p = x[1];
+            if (p >= 2LL * mn) break;
+            int take = min(cnt[f] - 1, budget / p);
+            ans += 2 * take;
+            budget -= take * p;
+        }
+        return ans + budget / mn;
+    }
+};
+
+
+
